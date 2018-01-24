@@ -239,6 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
+	    <h1> Test rajout information Fred</h1>
             <h1>Welcome to your Ruby application on OpenShift</h1>
           </hgroup>
 
